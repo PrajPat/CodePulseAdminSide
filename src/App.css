@@ -1,0 +1,26 @@
+
+  
+
+.mform{
+  background:  #fcbe03;
+
+}
+.editor{
+  height: 50px !important;
+}
+.allheading{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #fcbe03;
+  
+  
+}
+.frm{
+  background-color: white;
+
+}
+.frm:hover{
+  box-shadow: 0 0 0 .15vw #fcbe03 ;
+}
+.frm:focus{
+  box-shadow: 0 0 0 .15vw #fcbe03  ;
+}
